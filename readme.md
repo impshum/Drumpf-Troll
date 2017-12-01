@@ -2,6 +2,8 @@
 
 A simple bot to check for new tweets by @realDonaldTrump and reply if a new tweet is found.
 
+![Drumpf Troll](https://raw.githubusercontent.com/impshum/Drumpf-Troll/master/screenshot.jpg)
+
 ### Requirements
 
 * Python3
