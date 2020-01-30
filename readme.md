@@ -23,6 +23,6 @@ A simple bot to check for new tweets by @realDonaldTrump and reply if a new twee
 * Press Ctrl + C to exit.
 * Delete the contents of data/drumpf.txt to reset if needed.
 
----
+### Tip
 
 BTC - 1AYSiE7mhR9XshtS4mU2rRoAGxN8wSo4tK
